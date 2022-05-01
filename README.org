@@ -1,0 +1,10 @@
+#+TITLE: My suckless' st build
+
+* Applied patches
+- [[https://st.suckless.org/patches/alpha/][alpha]];
+- [[https://st.suckless.org/patches/bold-is-not-bright/][bold-is-not-bright]];
+- [[https://st.suckless.org/patches/boxdraw/][boxdraw]];
+- [[https://st.suckless.org/patches/clipboard/][clipboard]];
+- [[https://st.suckless.org/patches/glyph_wide_support/][glyph-wide-support]];
+- [[https://st.suckless.org/patches/scrollback/][scrollback and scrollback-mouse]];
+- [[https://st.suckless.org/patches/xresources/][.Xresources]];
